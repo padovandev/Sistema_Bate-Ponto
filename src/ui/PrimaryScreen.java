@@ -13,7 +13,7 @@ public class PrimaryScreen extends JFrame {
     private JLabel statusLabel;
 
     public PrimaryScreen() {
-        setTitle("Sistema de Bate-Ponto");
+        setTitle("Sistema de Bate-Ponto - WC Sistemas");
         setSize(400, 200);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(null);
